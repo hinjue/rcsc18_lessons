@@ -24,3 +24,4 @@ def fib_recursive(n):
 
 def fib_3(n):
     return [fib_recursive(i) for i in range(1, n)]
+	
